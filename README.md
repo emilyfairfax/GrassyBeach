@@ -1,10 +1,11 @@
 # GrassyBeach
 
 #Introduction to the Model
+<p><b>Navigating the Files</b><p>
+<p>There are three main versions of the model: Beneficial_Relationship_Grassy_Beach.m, Neutral_Relationship_Grassy_Beach.m, and Harmful_Relationship_Grassy_Beach.m. There is an additional version that compiles the three relationships to run at once for easy comparison called Relationship_Comparison_Grassy_Beach.m. Also uploaded into this repository are movies and images showing the final results of the models.</p>
 
 <p><b> Motivation </b> </p>
-<p>The motivation for this model is to demonstrate how a plant's physiological response to burial by sand affects both it's growth pattern
-through time as well as the morphology of obstacle dunes which form downwind of the plant. It takes into account sand falling out of suspension behind the plant in the plant's "windshadow," as well as hillslope diffusion of the sand as it falls out of suspension and is added to the bed.</p>
+<p>The motivation for this model is to demonstrate how a plant's physiological response to burial by sand affects both it's growth pattern through time as well as the morphology of obstacle dunes which form downwind of the plant. It takes into account sand falling out of suspension behind the plant in the plant's "windshadow," as well as hillslope diffusion of the sand as it falls out of suspension and is added to the bed. </p>
 
 <p><b>Relationship to Burial in Sand </b></p>
 <p>In this particular version of the model, the three relationships with burial (beneficial, neutral, and harmful) are compared visually against one another. </p>
